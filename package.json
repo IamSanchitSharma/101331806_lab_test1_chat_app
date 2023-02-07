@@ -1,0 +1,23 @@
+{
+  "name": "101331806_lab_test1_chat_app",
+  "version": "1.0.0",
+  "description": "This application focus on a chat application using MERN stack as a part of Lab Test 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": ["Lab test 1", "Node JS", "Sanchit Sharma", "101331806"],
+  "author": "Sanchit Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "mogoose": "0.0.1-security",
+    "mongoose": "^6.2.1",
+    "socket.io": "^4.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
